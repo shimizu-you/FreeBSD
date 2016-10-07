@@ -1,2 +1,2 @@
-proc	/proc	 procfs	rw	0	 0
-fdesc	/dev/fd	fdescfs	rw,auto,late	0	0
+proc		/proc	 	procfs	rw	0	0
+fdesc		/dev/fd		fdescfs	rw	0	0
